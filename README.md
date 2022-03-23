@@ -1,4 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyunse&layout=compact)](https://github.com/kim-hyunse)
+github-readme-stats.vercel.app/api/top-langs/?username={kim-hyunse}&langs_count=8
+
 
 <!--
 **kim-hyunse/kim-hyunse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
