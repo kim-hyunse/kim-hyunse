@@ -1,6 +1,6 @@
  🌱<b> I’m currently learning </b>🌱
 
-(https://github-readme-stats.vercel.app/api?username=kim-hyunse&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-hyunse&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyunse&layout=compact)](https://github.com/kim-hyunse)
 
