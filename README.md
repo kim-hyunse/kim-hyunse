@@ -1,4 +1,4 @@
- 🌱<b> I’m currently learning </b>🌱
+ 🌱
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyunse&layout=compact)](https://github.com/kim-hyunse)
