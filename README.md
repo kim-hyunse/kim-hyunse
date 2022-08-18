@@ -1,5 +1,3 @@
-Wanna be the greatest 🌱 </br>
-RA in Autonomous vehicle Lab
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyunse&layout=compact)](https://github.com/kim-hyunse)
