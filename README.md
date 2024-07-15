@@ -2,7 +2,7 @@ I'm interested in autonomous driving 🚗</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyunse&layout=compact)](https://github.com/kim-hyunse)
 </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-hyunse)](https://github.com/kim-hyunse/github-readme-stats)
+
 <!--
 **kim-hyunse/kim-hyunse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
